@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+<data>
+    <ports>
+        <port0>/dev/cu.wchusbserialfa13240</port0>
+        <port1>/dev/cu.usbmodemFA13241</port1>
+        <port2>/dev/cu.usbmodem1411</port2>
+        <port3>VOID</port3>
+        <port4>/dev/cu.usbmodemFA1331</port4>
+    </ports>
+    <placas>
+            <pin0>o</pin0>
+            <pin1>o</pin1>
+            <pin2>i</pin2>
+            <pin3>s</pin3>
+            <pin4>o</pin4>
+            <pin5>p</pin5>
+            <pin6>i</pin6>
+            <pin7>o</pin7>
+            <pin8>i</pin8>
+            <pin9>p</pin9>
+            <pin10>i</pin10>
+            <pin11>i</pin11>
+            <pin12>i</pin12>
+            <pin13>i</pin13>
+            <pin14>a</pin14>
+            <pin15>i</pin15>
+            <pin16>a</pin16>
+            <pin17>a</pin17>
+            <pin18>a</pin18>
+            <pin19>a</pin19>
+            <pin20>i</pin20>
+    </placas>
+</data>
